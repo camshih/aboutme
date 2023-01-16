@@ -6,7 +6,7 @@ import Contact from './Contact';
 
 const Navbar = () => {
   return (
-    <div className=''>
+    <div className='px-8'>
         <nav>
             {/* <Link to="/">Home</Link> */}
             <Link to="/about">About</Link>
