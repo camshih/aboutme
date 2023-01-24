@@ -14,11 +14,11 @@ function App() {
           aaa
         </div>
         <div className='w-full border-t-2 border-slate-300 text-left grid grid-cols-2 place-items-start content-start'>
-          <div className=''>
-            left
-          </div>
-          <div>
-            right
+          <div className='space-x-2 text-blue-500 font-medium'>
+            <a href="https://www.linkedin.com/in/cameron-shih/">Linkedin</a>
+            <a href="https://github.com/camshih">Github</a>
+            <a href="">Resume</a>
+            <a href="mailto:camshih@gmail.com">Email</a>
           </div>
         </div>
       </div>
